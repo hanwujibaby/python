@@ -1,3 +1,4 @@
+#下面这句重要，一般用来处理在http请求过程中的中文编码
 #-*- coding: UTF-8 -*- 
 import urllib
 import urllib2
